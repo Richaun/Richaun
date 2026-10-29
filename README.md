@@ -31,4 +31,4 @@ My goal is to keep improving my programming skills and become more confident bui
 ### Beyond the keyboard
 I just be chillin fr, if you dont know One Piece and Attack on Titan are the greatest pieces of fiction of all time. Also, Jordan Love is the GOAT
 
-![My picture](FOLDER-NAME/come%20get%20some.jpeg)
+![My picture](<come get some.jpeg>)
